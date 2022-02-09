@@ -1,4 +1,6 @@
-SONG                     / ARTIST            
-=============================================
-Let it be                - The Beatles
-Like a Rolling Stone     - The Rolling Stones
+SONG                               / ARTIST            
+===================================================================
+Let it be                          - The Beatles
+Like a Rolling Stone               - The Rolling Stones
+People are Strange                 - The Doors
+Have you ever seen the rain        - Creedence Clearwater Revival
