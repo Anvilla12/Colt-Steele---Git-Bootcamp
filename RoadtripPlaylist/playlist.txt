@@ -1,6 +1,8 @@
 SONG                               / ARTIST            
 ===================================================================
-Let it be                          - The Beatles
+While my Guitar Gently Wheeps      - The Beatles
 Like a Rolling Stone               - The Rolling Stones
 People are Strange                 - The Doors
 Have you ever seen the rain        - Creedence Clearwater Revival
+Johnny B. Goode                    - Chuck Berry
+Burning Love                       - Elvis Presley
