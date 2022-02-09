@@ -1,2 +1,3 @@
 Dinosaur - Is a reptile and is big.
-character - Our protagonist
+Character - Our protagonist!
+Storyteller - Tell our story.
